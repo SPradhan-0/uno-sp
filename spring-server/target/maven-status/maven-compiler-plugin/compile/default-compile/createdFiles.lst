@@ -1,0 +1,9 @@
+com/example/uno/UnoRestServerApplication.class
+com/example/uno/model/CardDto.class
+com/example/uno/model/GameStateDto.class
+com/example/uno/model/PlayerActionRequest.class
+com/example/uno/service/UnoGameSession.class
+com/example/uno/model/AddPlayerRequest.class
+com/example/uno/model/PlayCardRequest.class
+com/example/uno/service/UnoGameService.class
+com/example/uno/api/UnoGameController.class
